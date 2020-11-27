@@ -17,7 +17,7 @@
     <Controller_SelectedScaffolderID>MvcControllerWithContextScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Controller</Controller_SelectedScaffolderCategoryPath>
     <ShowAllFiles>false</ShowAllFiles>
-    <ActiveDebugProfile>IIS - Prod</ActiveDebugProfile>
+    <ActiveDebugProfile>IIS Dev</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>cursomvc - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

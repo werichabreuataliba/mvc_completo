@@ -10,3 +10,15 @@ C:\Users\wataliba\labs\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.
 C:\Users\wataliba\labs\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
 C:\Users\wataliba\labs\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
 C:\Users\wataliba\labs\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\Users\wataliba\labs\mvc_completo\MinhaMvcAppCompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb

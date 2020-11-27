@@ -6,6 +6,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\imagens\15d487e5-7037-419b-8775-bdf2a3ea9169_Capture.PNG111.PNG" />
+    <Content Remove="wwwroot\imagens\31ebd57b-571a-4426-a48d-7b37984cbf32_14691088_1230741393650604_8725615560898370598_n.jpg" />
+    <Content Remove="wwwroot\imagens\3f6eb075-e732-44ed-84f8-5c0745f6d696_116131368_1707478909416677_4032042544145079609_n.jpg" />
+    <Content Remove="wwwroot\imagens\843d2716-74c0-4284-8555-b9d9174468b7_Capture1.PNG" />
+    <Content Remove="wwwroot\imagens\9d4f2e8b-fdea-4a3b-b355-7a9bb703ff27_14691088_1230741393650604_8725615560898370598_n.jpg" />
+    <Content Remove="wwwroot\imagens\d14795a5-74f1-4918-89b9-566b7251d84a_Capture1.PNG" />
+    <Content Remove="wwwroot\imagens\d8b47ac2-58b2-447d-99e2-72ee997fac3c_Capture.PNG" />
+    <Content Remove="wwwroot\imagens\f1a0bff1-ce0d-4003-8f76-35e67d27453b_116131368_1707478909416677_4032042544145079609_n.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="automapper.extensions.microsoft.dependencyinjection" Version="8.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.9" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.0" />

@@ -5714,11 +5714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
       "projectName": "DevIO.Data",
-      "projectPath": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectPath": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
       "packagesPath": "C:\\Users\\wataliba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Data\\obj\\",
+      "outputPath": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5742,8 +5742,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
             }
           }
         }

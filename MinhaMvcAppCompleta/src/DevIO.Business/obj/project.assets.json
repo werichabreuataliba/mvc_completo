@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectPath": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "packagesPath": "C:\\Users\\wataliba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wataliba\\labs\\MinhaMvcAppCompleta\\src\\DevIO.Business\\obj\\",
+      "outputPath": "C:\\Users\\wataliba\\labs\\mvc_completo\\MinhaMvcAppCompleta\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
