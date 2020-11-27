@@ -1,0 +1,62 @@
+﻿@model DevIO.App.ViewModels.FornecedorViewModel
+@using DevIO.App.Extensions
+
+@{
+    ViewData["Title"] = "Detalhes";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Informação somente leitura</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Documento)
+        </dt>
+        <dd class="col-sm-10">
+            @this.FormataDocumento(Model.TipoFornecedor, Model.Documento)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ativo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ativo)
+        </dd>
+    </dl>
+
+    <div>
+        <a class="btn btn-dark" asp-action="Edit" asp-route-id="@Model.Id">Editar</a>
+        <a class="btn btn-info" asp-action="Index">Voltar</a>
+    </div>
+
+</div>
+
+<div id="EnderecoTarget">
+    <partial name="_DetalhesEndereco" />
+</div>
+
+<div id="myModal" class="modal fade in">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div id="myModalContent"></div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        $(document).ready(function () {
+            AjaxModal();
+        });
+    </script>
+
+}
